@@ -5,7 +5,7 @@ on:
     branches: [ "main", "master" ]
   pull_request:
     branches: [ "main", "master" ]
-  workflow_dispatch: # এটি দিয়ে আপনি GitHub এর Actions ট্যাব থেকে ম্যানুয়ালিও বিল্ড স্টার্ট করতে পারবেন
+  workflow_dispatch:
 
 jobs:
   build:
