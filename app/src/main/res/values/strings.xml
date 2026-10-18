@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ayra</string>
+    <string name="accessibility_service_description">AYRA Voice Assistant uses accessibility permissions strictly to perform user-requested voice commands like scrolling, pressing back, and tapping approved buttons on your behalf. AYRA never monitors sensitive text or stores screen content.</string>
+    <string name="device_admin_description">Used strictly to allow AYRA to lock the screen upon your direct voice command ("Ayra lock screen").</string>
+    <string name="listening_service_notification_title">AYRA Voice Assistant Active</string>
+    <string name="listening_service_notification_text">Listening for voice commands. Tap to open or stop.</string>
+    <string name="listening_service_notification_channel_name">AYRA Active Voice Session</string>
+    <string name="reminders_notification_channel_name">AYRA Reminders</string>
+</resources>
